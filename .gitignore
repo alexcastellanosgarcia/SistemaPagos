@@ -27,7 +27,9 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
-[Oo]bj/
+CobroServicios/CobroServicios/obj
+CobroServicios/CobroServicios/bin
+CobroServicios/CobroServicios/.vs
 [Ll]og/
 [Ll]ogs/
 
